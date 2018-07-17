@@ -5,6 +5,4 @@ class Champion {
   }
 }
 
-module.exports = {
-  Champion,
-};
+module.exports = Champion;
